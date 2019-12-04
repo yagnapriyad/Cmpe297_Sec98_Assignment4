@@ -14,4 +14,4 @@
 
 ###### vi) Masked RCNN
 
-### b) Stock market prediction using LSTM or GRU in keras - implement and compare it with 1d CONV wavenet implementation for the same.
+### b) Stock market prediction using LSTM in keras - implement and compare it with 1d CONV wavenet implementation for the same.
